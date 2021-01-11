@@ -1,13 +1,13 @@
-#####requirements
-. numpy
+##### requirements
+- numpy
 
 pip install numpy
 
-####running mazegen
+#### running mazegen
 
-####provide 2 argument variables when running mazegen.py
+#### provide 2 argument variables when running mazegen.py
 
-#####example
+##### example
 
 <code>python mazegen.py 20 20</code>
 
