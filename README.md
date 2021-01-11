@@ -1,11 +1,11 @@
-##### requirements
+### requirements
 - numpy
 
-pip install numpy
+<code>pip install numpy</code>
 
-#### running mazegen
+#### running mazegen generates maze as a numpy array of 1's an 0's
 
-#### provide 2 argument variables when running mazegen.py
+provide 2 argument variables when running mazegen.py
 
 ##### example
 
